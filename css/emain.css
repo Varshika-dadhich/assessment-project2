@@ -1,0 +1,29 @@
+div{
+
+display:flex;
+flex-direction:row;
+margin-left:2px;
+
+}
+
+body{
+
+background-color:black;
+color:white;
+font-family:cursive;
+
+}
+
+img{
+
+border:solid white;
+margin-left:8px;
+
+}
+#gif{
+    margin-top: 10px;
+     float: right;
+}
+ol{
+    color:black;
+}
